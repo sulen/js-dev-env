@@ -5,6 +5,7 @@
 - Package Manager: npm
 - Automation: npm scripts
 - Transpiling: Babel
+- Bundling: Webpack
 
 ## Commands
 `npm start` - runs local server with security check 
