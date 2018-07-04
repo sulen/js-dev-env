@@ -6,6 +6,7 @@
 - Automation: npm scripts
 - Transpiling: Babel
 - Bundling: Webpack
+- Linting: ESLint
 
 ## Commands
 `npm start` - runs local server with security check 
