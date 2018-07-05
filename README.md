@@ -7,6 +7,10 @@
 - Transpiling: Babel
 - Bundling: Webpack
 - Linting: ESLint
+- Testing: Jest
+
+## TODO:
+Add CI (Jenkins)
 
 ## Commands
 `npm start` - runs local server with security check 
