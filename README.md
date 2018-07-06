@@ -8,6 +8,7 @@
 - Bundling: Webpack
 - Linting: ESLint
 - Testing: Jest
+- Mocking: json-server, JSON Schema Faker
 
 ## TODO:
 Add CI (Jenkins)
